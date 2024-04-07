@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="Trax/trax.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Trax/trax.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=Trax/src&lt;main{Main.java[Main" manifestLocation="/Trax/src/MANIFEST.mf" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Trax/menuPlainBackground.png"/>
+        <file path="/Trax/Chosen"/>
+        <file path="/Trax/curved2s.png"/>
+        <file path="/Trax/Games"/>
+        <file path="/Trax/.classpath"/>
+        <file path="/Trax/emptys.png"/>
+        <file path="/Trax/curved1s.png"/>
+        <javaElement handleIdentifier="=Trax/src"/>
+        <file path="/Trax/line1s.png"/>
+        <file path="/Trax/curved0s.png"/>
+        <file path="/Trax/ChosenGame"/>
+        <file path="/Trax/.project"/>
+        <file path="/Trax/menuBackground2.png"/>
+        <file path="/Trax/curved3s.png"/>
+        <file path="/Trax/line0s.png"/>
+        <file path="/Trax/menuBackground.png"/>
+    </selectedElements>
+</jardesc>
